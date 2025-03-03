@@ -1,0 +1,87 @@
+# Simple Calculator  
+A basic calculator that performs addition, subtraction, multiplication, and division.  
+It is built using **HTML, CSS, and JavaScript** and supports:  
+✅ **Keyboard input** for easy calculations  
+✅ **Dark Mode** 🌙 for a better viewing experience  
+✅ **Smooth animations** for better usability  
+
+---
+
+## 📌 Features  
+- **Basic operations:** Add, Subtract, Multiply, and Divide  
+- **Keyboard support:** Use number keys, `+`, `-`, `*`, `/`, `Enter`, `Backspace`, and `Esc`  
+- **Dark Mode Toggle:** Click the button to switch between light and dark themes  
+- **Button animations** for a smooth user experience  
+
+---
+
+## 🛠 Tech Used  
+- **HTML** → Structure of the calculator  
+- **CSS** → Styling and animations  
+- **JavaScript** → Logic and functionality  
+
+---
+
+## 📁 Project Files  
+index.html → Contains the structure of the calculator, such as buttons and display.
+styles.css → Provides styling, animations, and dark mode support.
+script.js → Contains JavaScript functions to handle button clicks, keyboard inputs, and calculations.
+README.md → This file explains the project details, setup instructions, and features.
+
+
+---
+
+## 🚀 How to Run  
+### 1️⃣ Open in a Browser  
+- **Double-click** `index.html`  
+- Or **Right-click** → "Open with" → Select a browser  
+
+### 2️⃣ Use Live Server (For Auto-Refresh)  
+If using **VS Code**, install **Live Server**:  
+1. Open the project in **VS Code**  
+2. Right-click `index.html` → **"Open with Live Server"**  
+
+---
+
+## 🎮 How to Use  
+| **Action**  | **Button** | **Keyboard Shortcut**  |  
+|------------|-----------|------------------------|  
+| Enter numbers | `0-9` | **0-9 keys** |  
+| Add | `+` | **+ key** |  
+| Subtract | `-` | **- key** |  
+| Multiply | `×` | **\* key** |  
+| Divide | `÷` | **/ key** |  
+| Clear display | `C` | **Esc key** |  
+| Delete last entry | `⌫` | **Backspace key** |  
+| Calculate result | `=` | **Enter key** |  
+| Toggle dark mode | 🌙 | **Click "Dark Mode" button** |  
+
+---
+
+## 🔧 Fixing Issues  
+If the calculator is **not working**, try these steps:  
+1️⃣ **Check Console Errors:**  
+   - Open **Developer Console**  
+   - **Chrome/Edge:** Press `F12` or `Ctrl + Shift + I` → Click **Console**  
+   - **Firefox:** Press `F12` → Click **Console**  
+   - If errors appear in **red**, there may be an issue with JavaScript  
+
+2️⃣ **Make Sure JavaScript is Enabled:**  
+   - Some browsers disable JavaScript. Enable it in **browser settings**  
+
+3️⃣ **Use Live Server for Auto-Reload**  
+
+---
+
+## 📜 License  
+This project is **free to use and modify** under the **MIT License**.  
+
+---
+
+## 🤝 Contributing  
+Want to improve the project?  
+1. Fork the repository  
+2. Make changes and test  
+3. Submit a pull request 🚀  
+
+---
